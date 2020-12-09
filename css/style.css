@@ -1,0 +1,31 @@
+/* PRE-CONFIGURATION */
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+/* BODY */
+
+body {
+    background-color: #fef9e5;
+    width: 100%;
+}
+
+#about, #services div, #gallery div, #contact, footer div {
+    max-width: 1080px;
+    margin: auto;
+}
+
+#about h2, #services h2, #gallery h2, #contact h2 {
+    color: #0c2c32;
+    font-size: 40px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+h1, h2, h3 {
+    
+}
